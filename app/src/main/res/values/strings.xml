@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SBank</string>
+    <string name="logo_text">S.</string>
+    <string name="description">First of the few steps to set you up with a Bank Account</string>
+    <string name="pan_number">PAN NUMBER</string>
+    <string name="birth_date">Birthdate</string>
+    <string name="i_don_t_have_a_pan">I don\'t have a PAN</string>
+    <string name="next">Next</string>
+    <string name="tnc"><![CDATA[Providing PAN & Date of Birth helps us find and fetch your KYC from a central registry by the Government of india. Learn More]]></string>
+    <string name="invalid_pan_number">Invalid PAN Number.</string>
+    <string name="details_submitted">Details submitted successfully</string>
+    <string name="learn_more">Learn More</string>
+</resources>
